@@ -1,0 +1,15 @@
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+C:\Users\celal\source\repos\FormManagementApp\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll

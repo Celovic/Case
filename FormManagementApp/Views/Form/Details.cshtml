@@ -1,0 +1,25 @@
+﻿@model DataLayer.Entity.FormList
+@{
+    ViewData["Title"] = "Form Detayları";
+}
+
+<h1>@Model.Name</h1>
+<p>@Model.Description</p>
+
+<form>
+    @foreach (var field in Model.FormFields)
+    {
+        <div class="form-group">
+            <label>@field.Name</label>
+            @if (field.DataType == "STRING")
+            {
+                <input type="text" class="form-control" />
+            }
+            else if (field.DataType == "NUMBER")
+            {
+                <input type="number" class="form-control" />
+            }
+        </div>
+    }
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

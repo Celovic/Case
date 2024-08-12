@@ -1,0 +1,19 @@
+﻿<div class="container">
+    <h2>@Model.Name</h2>
+    <form>
+        @foreach (var field in Model.FormFields)
+        {
+            <div class="form-group">
+                <label>@field.Name</label>
+                @if (field.DataType == "STRING")
+                {
+                    <input type="text" class="form-control" required="@field.Required" />
+                }
+                else if (field.DataType == "NUMBER")
+                {
+                    <input type="number" class="form-control" required="@field.Required" />
+                }
+            </div>
+        }
+    </form>
+</div>

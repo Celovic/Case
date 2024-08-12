@@ -1,0 +1,45 @@
+﻿@model DataLayer.Entity.FormList
+
+<form asp-action="Create">
+    <div>
+        <label for="Name">Form Name</label>
+        <input type="text" id="Name" name="Name" asp-for="Name" required />
+    </div>
+    <div>
+        <label for="Description">Description</label>
+        <input type="text" id="Description" name="Description" asp-for="Description" />
+    </div>
+    <div id="fields-container">
+        <h3>Fields</h3>
+        <button type="button" id="add-field">Add Field</button>
+        <div class="field-group">
+            <label for="FormFields[0].Name">Field Name</label>
+            <input type="text" name="FormFields[0].Name" required />
+
+            <label for="FormFields[0].DataType">Data Type</label>
+            <select name="FormFields[0].DataType">
+                <option value="STRING">String</option>
+                <option value="NUMBER">Number</option>
+            </select>
+
+            <label for="FormFields[0].Required">Required</label>
+            <input type="checkbox" name="FormFields[0].Required" />
+        </div>
+    </div>
+    <button type="submit">Create Form</button>
+</form>
+
+<script>
+    let fieldIndex = 1;
+
+    document.getElementById('add-field').addEventListener('click', function () {
+        const fieldGroup = document.querySelector('.field-group').cloneNode(true);
+        fieldGroup.querySelectorAll('input, select').forEach(input => {
+            const name = input.getAttribute('name');
+            input.setAttribute('name', name.replace(/\d+/, fieldIndex));
+            input.value = '';
+        });
+        document.getElementById('fields-container').appendChild(fieldGroup);
+        fieldIndex++;
+    });
+</script>

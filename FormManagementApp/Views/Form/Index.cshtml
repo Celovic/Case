@@ -1,0 +1,30 @@
+﻿@model IEnumerable<DataLayer.Entity.FormList>
+@{
+    ViewData["Title"] = "Form Yönetimi";
+}
+
+<h1>Form Yönetimi</h1>
+<a href="/Form/Create" class="btn btn-primary mb-3">Yeni Form Oluştur</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Adı</th>
+            <th>Oluşturulma Tarihi</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var form in Model)
+        {
+            <tr>
+                <td>@form.Id</td>
+                <td>@form.Name</td>
+                <td>@form.CreatedDate.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a href="/Form/Details/@form.Id" class="btn btn-info btn-sm">Detaylar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

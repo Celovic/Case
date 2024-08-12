@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\views\\form\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\views\\form\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8128E07-0B4F-4370-8485-904A3C04DB68}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\servicelayer\\services\\formlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8128E07-0B4F-4370-8485-904A3C04DB68}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\formlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\datalayer\\entity\\formlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entity\\formlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\views\\form\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\views\\form\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\datalayer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8128E07-0B4F-4370-8485-904A3C04DB68}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\servicelayer\\iservices\\iformlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8128E07-0B4F-4370-8485-904A3C04DB68}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\iservices\\iformlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\views\\form\\viewform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\views\\form\\viewform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\datalayer\\entity\\formfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entity\\formfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\datalayer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\datalayer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F663A4F5-7785-48EE-94FE-25EEB340C34D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8128E07-0B4F-4370-8485-904A3C04DB68}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\servicelayer\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8128E07-0B4F-4370-8485-904A3C04DB68}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8128E07-0B4F-4370-8485-904A3C04DB68}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8128E07-0B4F-4370-8485-904A3C04DB68}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|c:\\users\\celal\\source\\repos\\formmanagementapp\\formmanagementapp\\wwwroot\\js\\formapp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EA0A7A53-BA5E-4E66-B7B0-98F5BFC744C2}|FormManagementApp\\FormManagementApp.csproj|solutionrelative:formmanagementapp\\wwwroot\\js\\formapp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "FormManagementApp\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Controllers\\FormController.cs",
+              "RelativeToolTip": "FormManagementApp\\Controllers\\FormController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:35:29.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\ServiceLayer\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\ServiceLayer\\Services\\UserService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\UserService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T02:59:35.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FormManagementApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "FormManagementApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:31:26.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormListService.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\ServiceLayer\\Services\\FormListService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\FormListService.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\ServiceLayer\\Services\\FormListService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\FormListService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwBgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:24:21.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Form\\Create.cshtml",
+              "RelativeDocumentMoniker": "FormManagementApp\\Views\\Form\\Create.cshtml",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Form\\Create.cshtml",
+              "RelativeToolTip": "FormManagementApp\\Views\\Form\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T04:35:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormList.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Entity\\FormList.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entity\\FormList.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Entity\\FormList.cs",
+              "RelativeToolTip": "DataLayer\\Entity\\FormList.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAvwA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T02:48:52.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFormListService.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\ServiceLayer\\IServices\\IFormListService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\IServices\\IFormListService.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\ServiceLayer\\IServices\\IFormListService.cs",
+              "RelativeToolTip": "ServiceLayer\\IServices\\IFormListService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:23:37.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FormManagementApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FormManagementApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T00:33:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "DataLayer\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:25:57.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Form\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormManagementApp\\Views\\Form\\Index.cshtml",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Form\\Index.cshtml",
+              "RelativeToolTip": "FormManagementApp\\Views\\Form\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T00:41:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FormManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FormManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T01:18:24.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FormManagementApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FormManagementApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAtwDYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:31:02.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "FormManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Program.cs",
+              "RelativeToolTip": "FormManagementApp\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T01:23:59.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Form\\Details.cshtml",
+              "RelativeDocumentMoniker": "FormManagementApp\\Views\\Form\\Details.cshtml",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Form\\Details.cshtml",
+              "RelativeToolTip": "FormManagementApp\\Views\\Form\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T04:36:59.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Entity\\User.cs",
+              "RelativeToolTip": "DataLayer\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:33:56.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormField.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Entity\\FormField.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entity\\FormField.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Entity\\FormField.cs",
+              "RelativeToolTip": "DataLayer\\Entity\\FormField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T02:51:51.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FormManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FormManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:33:15.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Form\\ViewForm.cshtml",
+              "RelativeDocumentMoniker": "FormManagementApp\\Views\\Form\\ViewForm.cshtml",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Views\\Form\\ViewForm.cshtml",
+              "RelativeToolTip": "FormManagementApp\\Views\\Form\\ViewForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T18:28:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FormManagementApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\appsettings.json",
+              "RelativeToolTip": "FormManagementApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T01:35:38.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\DataLayer\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "DataLayer\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:58:14.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\ServiceLayer\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\ServiceLayer\\IServices\\IUserService.cs",
+              "RelativeToolTip": "ServiceLayer\\IServices\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:26:06.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FormManagementApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FormManagementApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:46:32.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "formApp.js",
+              "DocumentMoniker": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\wwwroot\\js\\formApp.js",
+              "RelativeDocumentMoniker": "FormManagementApp\\wwwroot\\js\\formApp.js",
+              "ToolTip": "C:\\Users\\celal\\source\\repos\\FormManagementApp\\FormManagementApp\\wwwroot\\js\\formApp.js",
+              "RelativeToolTip": "FormManagementApp\\wwwroot\\js\\formApp.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-11T01:21:34.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
